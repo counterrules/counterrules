@@ -7,7 +7,7 @@
 
   # Olá 👋, eu sou o Muel!
 
-  ### 💻 Desenvolvedor Front-end
+  ### 💻 Desenvolvedor Front-end | 🛡️ Explorando Back-end & Segurança
 
   <!-- Efeito de digitação dinâmico -->
   <a href="https://git.io/typing-svg">
@@ -22,10 +22,10 @@
       <td valign="top" width="58%">
         <h3 align="left">📌 Sobre Mim</h3>
         <p align="left">
-          Prazer, Muel! Sou desenvolvedor Front-end focado em criar telas rápidas, organizadas e agradáveis de usar. No momento, também estou aprofundando meus estudos em Back-end para entender cada vez melhor a aplicação rodando de ponta a ponta.
+          Fé, sou o muel! Sou desenvolvedor Front-end focado em criar telas rápidas, organizadas e agradáveis de usar. No momento, também estou aprofundando meus estudos em Back-end para entender cada vez melhor a aplicação rodando de ponta a ponta.
         </p>
         <p align="left">
-          📚 Paralelamente, faço faculdade de <strong>Ciências Contábeis</strong>. Isso me dá uma base sólida em regras de negócio, dados financeiros, auditoria e rotinas de perícia judicial — ótimo para criar sistemas consistentes e com boa integridade de dados.
+          📚 Faço faculdade de <strong>Ciências Contábeis</strong>. Isso me dá uma base sólida em regras de negócio, dados financeiros, auditoria e rotinas de perícia judicial — ótimo para criar sistemas consistentes e com boa integridade de dados online.
         </p>
         <p align="left">
           ⚡ No Front, meu foco atual é <strong>React</strong>, <strong>Next.js</strong> e <strong>TypeScript</strong>. No Back, venho praticando com <strong>Node.js</strong> e <strong>PostgreSQL</strong>.
@@ -101,7 +101,7 @@
 
   <br />
 
-  <!-- ESTATÍSTICAS -->
+  <!-- ESTATÍSTICAS DO GITHUB -->
   <h3>📊 Estatísticas do GitHub</h3>
 
   <!-- Streak Stats -->
@@ -109,8 +109,8 @@
 
   <br /><br />
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=counterrules&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <!-- Painel de Métricas (Substituindo o gráfico instável) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=counterrules&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
   <br /><br />
 
