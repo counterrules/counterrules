@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- BANNER SUPERIOR -->
-  <img src="https://i.pinimg.com/1200x/65/61/c3/6561c3bb6850a61578bf0aad76b69c2f.jpg" width="100%" alt="Header Banner" />
+  <img src="https://i.pinimg.com/1200x/3b/74/71/3b7471e32825ba70ebb1c39bda7329f3.jpg" width="100%" alt="Header Banner" />
 
   <br /><br />
 
   # Olá 👋, eu sou o Muel!
 
-  ### 💻 Desenvolvedor Front-end | 🛡️ Explorando Back-end & Segurança
+  ### 💻 Desenvolvedor Front-end
 
   <!-- Efeito de digitação dinâmico -->
   <a href="https://git.io/typing-svg">
@@ -104,18 +104,26 @@
   <!-- ESTATÍSTICAS -->
   <h3>📊 Estatísticas do GitHub</h3>
 
-  <!-- Streak Stats[cite: 1, 2] -->
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=counterrules&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
   <br /><br />
 
-  <!-- Activity Graph[cite: 1, 2] -->
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=counterrules&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 
   <br /><br />
 
-  <!-- Frase aleatória dev[cite: 1] -->
-  <h3>💬 Frase do Dia</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  ---
+
+  <br />
+
+  <!-- PENSAMENTO / CONTABILIDADE -->
+  <h3>📖 Pensamento</h3>
+
+  <blockquote>
+    <p><em>«Não se deve ir dormir sem que o débito e o crédito estejam em devido equilíbrio.»</em></p>
+    <p>— <strong>Frei Luca Pacioli</strong>, Pai da Contabilidade Moderna</p>
+  </blockquote>
 
 </div>
