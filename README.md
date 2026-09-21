@@ -7,7 +7,7 @@
 
   # Olá 👋, eu sou o Muel!
 
-  ### 💻 Desenvolvedor Front-end | 🛡️ Explorando Back-end & Segurança
+  ### 💻 Desenvolvedor Front-end 
 
   <!-- Efeito de digitação dinâmico -->
   <a href="https://git.io/typing-svg">
@@ -69,15 +69,15 @@
   <h3>🌐 Conecte-se Comigo</h3>
 
   <p align="center">
-    <a href="https://linkedin.com/in/SEU_LINK" target="_blank">
+    <a href="(https://www.linkedin.com/in/counterrules/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:seuemail@exemplo.com">
+    <a href="mailto:muelfront@outlook.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
-    <a href="https://discord.com" target="_blank">
+    <a href="https://discord.com/1473498194229854352" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
